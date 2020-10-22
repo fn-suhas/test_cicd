@@ -1,0 +1,82 @@
+[
+  {
+    "type": "repository",
+    "url": "https://github.com/suhasfutuernoob/hci_infrastructure-dev",
+    "owner": "https://github.com/suhasfutuernoob",
+    "name": "hci_infrastructure-dev",
+    "description": null,
+    "website": null,
+    "private": true,
+    "has_issues": true,
+    "has_wiki": true,
+    "has_downloads": true,
+    "labels": [
+      {
+        "url": "https://github.com/suhasfutuernoob/hci_infrastructure-dev/labels/bug",
+        "name": "bug",
+        "color": "d73a4a",
+        "created_at": "2020-09-20T17:55:34Z"
+      },
+      {
+        "url": "https://github.com/suhasfutuernoob/hci_infrastructure-dev/labels/documentation",
+        "name": "documentation",
+        "color": "0075ca",
+        "created_at": "2020-09-20T17:55:35Z"
+      },
+      {
+        "url": "https://github.com/suhasfutuernoob/hci_infrastructure-dev/labels/duplicate",
+        "name": "duplicate",
+        "color": "cfd3d7",
+        "created_at": "2020-09-20T17:55:35Z"
+      },
+      {
+        "url": "https://github.com/suhasfutuernoob/hci_infrastructure-dev/labels/enhancement",
+        "name": "enhancement",
+        "color": "a2eeef",
+        "created_at": "2020-09-20T17:55:35Z"
+      },
+      {
+        "url": "https://github.com/suhasfutuernoob/hci_infrastructure-dev/labels/good%20first%20issue",
+        "name": "good first issue",
+        "color": "7057ff",
+        "created_at": "2020-09-20T17:55:35Z"
+      },
+      {
+        "url": "https://github.com/suhasfutuernoob/hci_infrastructure-dev/labels/help%20wanted",
+        "name": "help wanted",
+        "color": "008672",
+        "created_at": "2020-09-20T17:55:35Z"
+      },
+      {
+        "url": "https://github.com/suhasfutuernoob/hci_infrastructure-dev/labels/invalid",
+        "name": "invalid",
+        "color": "e4e669",
+        "created_at": "2020-09-20T17:55:35Z"
+      },
+      {
+        "url": "https://github.com/suhasfutuernoob/hci_infrastructure-dev/labels/question",
+        "name": "question",
+        "color": "d876e3",
+        "created_at": "2020-09-20T17:55:35Z"
+      },
+      {
+        "url": "https://github.com/suhasfutuernoob/hci_infrastructure-dev/labels/wontfix",
+        "name": "wontfix",
+        "color": "ffffff",
+        "created_at": "2020-09-20T17:55:35Z"
+      }
+    ],
+    "collaborators": [
+
+    ],
+    "created_at": "2020-09-20T17:55:34Z",
+    "git_url": "tarball://root/repositories/suhasfutuernoob/hci_infrastructure-dev.git",
+    "default_branch": "master",
+    "webhooks": [
+
+    ],
+    "public_keys": [
+
+    ]
+  }
+]
